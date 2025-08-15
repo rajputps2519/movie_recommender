@@ -2,11 +2,6 @@
 
 A content-based movie recommender system built with Python and Streamlit. This application suggests movies similar to a user's selection based on plot, genres, cast, and crew.
 
-## 🎥 Demo
-
-It's highly recommended to add a screenshot or a GIF of your running application here. It makes your project look much more professional!
-
-![App Screenshot](https://user-images.githubusercontent.com/26932949/148332415-322b0128-04f7-4340-9a00-61016551b327.png)
 
 ## ✨ Features
 

@@ -1,7 +1,9 @@
 # 🎬 Movie Recommender System
 
 A content-based movie recommender system built with Python and Streamlit. This application suggests movies similar to a user's selection based on plot, genres, cast, and crew.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movierecommender-fxzcfnibczmj2rcsutjcca.streamlit.app/)
 
+A content-based movie recommender system built with Python and Streamlit. This application suggests movies similar to a user's selection based on plot, genres, cast, and crew.
 
 ## ✨ Features
 
